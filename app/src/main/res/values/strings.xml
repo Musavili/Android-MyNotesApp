@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">My Notes App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_note">Edit Note</string>
+    <string name="title_activity_main">My Notes App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_hint">Title</string>
+    <string name="text_int">Text</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <string name="general_header">General</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!--General Preferences-->
+    <string name="pref_default_display_name">Your name</string>
+    <string name="user_display_name">user display name</string>
+    <string name="pref_title_display_name">Display name</string>
+
+    <string name="pref_title_email_address">user email address</string>
+    <string name="user_email_address">user email address</string>
+    <string name="pref_default_email_address">yourname@yourhost.com</string>
+
+    <string-array name="pref_entries_favourite_social">
+        <item>Google+</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+    </string-array>
+
+    <string-array name="pref_values_favourite_social">
+        <item>http://plus.google.com</item>
+        <item>http://plus.facebook.com</item>
+        <item>http://plus.twitter.com</item>
+    </string-array>
+
+    <string name="pref_default_favourite_social">http://plus.google.com</string>
+</resources>
