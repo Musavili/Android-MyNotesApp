@@ -1,7 +1,5 @@
 # Android-MyNotesApp
 a note keeping app
-# Notekeeper
-Simple app for writing notes.
 
 ## Screenshots:
 ![Screenshot_splash screen](https://user-images.githubusercontent.com/59392019/92918752-6189fb00-f438-11ea-8049-dfe60d001af6.jpeg)
